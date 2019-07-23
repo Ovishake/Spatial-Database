@@ -9,3 +9,6 @@ Features:
 2) Range query: When this option is used, the user can draw a polygon in the campus map and all the fire buildings, buildings and hydrants within that area are highlighted.
 3) Closest Fire hydrant: When this option is used, the user could use click to specify arbitrary number of buildings that are on fire and the closest fire hydrants to those buildings are highlighted.
 4)Find neighbor Buildings: When this option is used,the application displays the buildings which are within 100px of the fire buildings
+
+
+KeyWords: Java, Oracle Spatial DB
